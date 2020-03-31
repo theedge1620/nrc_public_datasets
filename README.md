@@ -10,3 +10,6 @@ Scraped data and scraping code provided. For example, getINtables3.py scrapes th
 #### References to direct data downloads
 Plant information and recent operating performance:  https://www.nrc.gov/data
 Generic Issues - https://www.nrc.gov/about-nrc/regulatory/gen-issues/generic-issues-dataset.xls
+Notices of Enforcement Discretion:  https://www.nrc.gov/reading-rm/doc-collections/enforcement/notices/noedreactor.html
+Licensee Event Reports:  https://lersearch.inl.gov/LERSearchCriteria.aspx
+
