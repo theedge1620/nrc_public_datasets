@@ -6,6 +6,12 @@ Some datasets are downloaded directly from https://www.nrc.gov, and some had to 
 
 Scraped data and scraping code provided. For example, getINtables3.py scrapes the Information Notices from the NRC's public website, and getRIStables3.py scrapes the Regulatory Issue Summaries from the NRC's public website.
 
+#### Project proposal
+Project proposal is contained in the project_proposal.ipynb file
+
+#### Project EDA
+Project EDA is contained in the project_EDA.ipynb file
+
 
 #### References to direct data downloads
 Plant information and recent operating performance:  https://www.nrc.gov/data
